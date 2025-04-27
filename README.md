@@ -1,4 +1,4 @@
-[Your paragraph text (1)](https://github.com/user-attachments/assets/e552b83e-bdd1-49aa-97c7-33a567952cbb)
+![frame](https://github.com/user-attachments/assets/1c92d719-bfc5-4f96-bfc6-3beeaadda1d5)
 <h2 align="left">Hi 👋! My name is Shubham Kumar and I'm a Data Analyst, from Uttarakhand..</h2>
 
 ###!
