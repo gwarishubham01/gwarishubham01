@@ -1,4 +1,5 @@
-<h2 align="left">Hello, my name is Shubham Kumar, and I am a Data Analyst.</h2>
+![banner](https://github.com/user-attachments/assets/48aded24-6dc3-4919-9e25-d1357f279bbe)
+<h1 align="left">Hello, my name is Shubham Kumar, and I am a Data Analyst.</h1>
 
 ###
 
