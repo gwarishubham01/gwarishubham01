@@ -1,5 +1,10 @@
 ![banner](https://github.com/user-attachments/assets/48aded24-6dc3-4919-9e25-d1357f279bbe)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gwarishubham01/count.svg?"  />
+</div>
+
+###
 
 ## **✨ About Me:**
 - Hi, I'm **Shubham Kumar**, a passionate Data Analyst currently pursuing an **MBA in Data Analytics** at **Parul University**.
