@@ -1,9 +1,12 @@
 ![banner](https://github.com/user-attachments/assets/48aded24-6dc3-4919-9e25-d1357f279bbe)
-<h1 align="left">Hello, my name is Shubham Kumar, and I am a Data Analyst.</h1>
+<h1 align="left">About Me:</h1>
 
 ###
-
+Hi, my name is Shubham Kumar, and I am a Data Analyst.  
+Currently pursuing MBA from Parul University with specialization in Data Analytics.
 <h3 align="left">Unleashing the potential of information.</h3>
+
+
 
 ###
 
