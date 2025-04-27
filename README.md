@@ -2,7 +2,7 @@
 
 
 ## **✨ About Me:**
-- Hi, I'm Shubham Kumar, a passionate Data Analyst currently pursuing an MBA in Data Analytics at Parul University.
+- Hi, I'm **Shubham Kumar**, a passionate Data Analyst currently pursuing an **MBA in Data Analytics** at **Parul University**.
 - I have a background in Computer Science Engineering (AI & ML) and a strong interest in data-driven decision-making.
 - I love working with Python, SQL, Excel, Power BI, and Machine Learning tools to solve real-world problems.
 - Always eager to learn, collaborate, and build impactful projects!
