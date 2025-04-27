@@ -1,4 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/48aded24-6dc3-4919-9e25-d1357f279bbe)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gwarishubham01/count.svg?"  />
+</div>
 <h1 align="left">About Me:</h1>
 
 ###
@@ -32,9 +35,7 @@ Currently pursuing MBA from Parul University with specialization in Data Analyti
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gwarishubham01/count.svg?"  />
-</div>
+
 
 ###
 
