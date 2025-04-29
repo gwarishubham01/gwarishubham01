@@ -32,7 +32,7 @@
 
 ## **📫 How to reach me:**
 - **Email:** gwarishubham01@gmail.com
-- **LinkedIn:** linkedin.com/in/shubham-kumar-549442202
+- **LinkedIn:** https://linkedin.com/in/shubham-kumar-549442202
 
 ###
 
